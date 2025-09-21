@@ -1,2 +1,2 @@
 # Email_Spam_Checker
-Identifying emails that are to be
+Identifying emails that are
